@@ -5,11 +5,11 @@ This is a fork from [Llama Index OpenAI Finetunning notebook](https://github.com
 
 ## Requirements
 using python version 3.11.x
-on VSCode: download Python and Jupyter notebook plugin
 
 ## Set up with VSCode
 1. move the pdf to train underneeth the ./data
 2. install needed dependencies `pip install requirements.txt`
+3. on VSCode: download Python and Jupyter notebook extension
 
 ## Running the notebook
 refer to the notebook and run each cells sequentially. Do note that depending on the number of questions, model for synthetic data set generation, and length of the PDF- the wait time can be significant.
